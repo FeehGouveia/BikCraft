@@ -1,0 +1,21 @@
+/* CSS reset */
+@import "global/global.css";
+
+/* CSS Utilitário Tipografia */
+@import "utilidades/tipografia.css";
+
+/* CSS Utilitário Cores */
+@import "utilidades/cores.css";
+
+/* Componentes do Site */
+@import "utilidades/componentes.css";
+
+/* CSS para o header */
+@import "global/header.css";
+
+/* CSS para a home */
+@import "home/introducao.css";
+@import "home/tecnologia.css";
+
+/* CSS para a lista de bicicletas */
+@import "bicicletas/bicicletas_lista.css";
