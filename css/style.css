@@ -16,6 +16,8 @@
 /* CSS para a home */
 @import "home/introducao.css";
 @import "home/tecnologia.css";
+@import "home/parceiros.css";
+@import "home/depoimento.css";
 
 /* CSS para a lista de bicicletas */
 @import "bicicletas/bicicletas_lista.css";
